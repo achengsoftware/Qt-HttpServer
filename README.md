@@ -1,2 +1,2 @@
-# LinkdoodHttpServer
+# Qt-HttpServer
 LinkdoodHttpServer
